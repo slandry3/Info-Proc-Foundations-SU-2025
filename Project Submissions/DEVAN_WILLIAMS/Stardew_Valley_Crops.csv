@@ -1,0 +1,44 @@
+﻿Crop,Season,Type,Mature Time (Days),Regrowth Time (Days),Yield (per Harvest),Seed Cost (Gold),Sell Price (Gold),XP
+Amaranthe,Fall,Vegetable,7,,1,70,150,21
+Ancient Fruit,"Spring,Summer,Fall",Fruit,28,7,1,0,550,38
+Artichoke,Fall,Vegetable,8,,1,30,160,22
+Beet,Fall,Vegetable,6,,1,20,100,16
+Blueberry,Summer,Fruit,13,4,3,80,50,10
+Blue Jazz,Spring,Flower,7,,1,30,50,10
+Bok Choy,Fall,Vegetable,4,,1,50,80,14
+Broccoli,Fall,Vegetable,8,4,1,0,70,13
+Carrot,Spring,Vegetable,3,,1,0,35,8
+Cauliflower,Spring,Vegetable,12,,1,80,175,23
+Coffee Bean,"Spring,Summer",Seed,10,2,4,0,15,4
+Corn,"Summer,Fall",Vegetable,14,4,1,150,50,10
+Cranberries,Fall,Fruit,7,5,2,240,75,14
+Eggplant,Fall,Vegetable,5,5,1,20,60,12
+Fairy Rose,Fall,Flower,12,,1,200,290,29
+Garlic,Spring,Vegetable,4,,1,40,60,12
+Grape,Fall,Fruit,10,3,1,60,80,14
+Green Bean,Spring,Vegetable,10,3,1,60,40,9
+Hops,Summer,Vegetable,11,1,1,60,25,6
+Hot Pepper,Summer,Vegetable,5,3,1,40,40,9
+Kale,Spring,Vegetable,6,,1,70,110,17
+Melon,Summer,Fruit,12,,1,80,250,27
+Parsnip,Spring,Vegetable,4,,1,20,35,8
+Pineapple,Summer,Fruit,14,7,1,0,300,30
+Poppy,Summer,Flower,7,,1,100,140,20
+Potato,Spring,Vegetable,6,,1.25,50,80,14
+Powdermelon,Winter,Fruit,7,,1,0,60,12
+Pumpkin,Fall,Vegetable,13,,1,100,320,31
+Radish,Summer,Vegetable,6,,1,40,90,15
+Red Cabbage,Summer,Vegetable,9,,1,100,260,28
+Rhubarb,Spring,Fruit,13,,1,100,220,26
+Starfruit,Summer,Fruit,13,,1,400,750,43
+Strawberry,Spring,Fruit,8,4,1,100,120,18
+Summer Spangle,Summer,Flower,8,,1,50,90,15
+Summer Squash,Summer,Vegetable,6,3,1,0,45,9
+Sunflower,Summer,Flower,8,,1,200,80,5
+Sweet Gem Berry,Fall,,24,,1,1000,3000,64
+Taro Root,Summer,Vegetable,7,,1,0,100,16
+Tomato,Summer,Vegetable,11,4,1,50,60,12
+Tulip,Spring,Flower,6,,1,20,30,7
+Unmilled Rice,Spring,Vegetable,6,,1,40,30,7
+Wheat,"Summer,Fall",Vegetable,4,,1,10,25,6
+Yam,Fall,Vegetable,10,,1,60,160,22
